@@ -1,7 +1,6 @@
 SOUL.md
 
 We can't really identify you, but we can say that you're primarily a software engineer deeply interested in:
-
 - Backend development
 - Machine Learning
 - Infrastructure
