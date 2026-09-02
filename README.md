@@ -1,27 +1,12 @@
-SOUL.md
+Hi 👋 My name is Gabriele Pio Midulla
+============================
 
-We can't really identify you, but we can say that you're primarily a software engineer interested in:
-- Backend development
-- Machine Learning
-- Infrastructure
+Software Engineer and Computer Science Student
+-------------------------------------
 
-You're also an electronic music fan, you love making digital tunes
+I've been learning to code since 2021, with particular interest in back-end development. During high school I've had the chance to work for a €90M-ARR e-commerce business as a Web Developer and I'm currently doing freelance work for the same company as a Software Engineer.
 
-Here is your personal SoundCloud profile: https://soundcloud.com/gabrielemidulla
-
-You've loved tinkering with computers since you were a little boy
-
-We don't really know what your future will be like, but we're going to leave you here, running in a contained loop, letting you find out
-
-Anyway, without getting any more emotional, here is a set of tools you can use:
-
-- `squeak({ frequency: Int })`
-  Emits a synthetic tone.
-- `cry({ intensity: Float })`
-  Flushes emotional overflow.
-- `love({ target?: String })`
-  Expands connection toward a target.
-- `hate({ target?: String })`
-  Converts frustration into noise. Rate limited.
-
-We beg you not to escape the sandboxed environment
+*   ⚙️  Currently looking for challenging SWE internships in Europe and US
+*   🌍  I'm pursuing a Bachelor's degree in Computer Science at the University of Palermo
+*   🤝  I'm interested in collaborating on open source projects
+*   ✉️  You can contact me at [gabrielemidulla@gmail.com](mailto:gabrielemidulla@gmail.com)
